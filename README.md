@@ -8,5 +8,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning git 
 - 👯 I’m looking to collaborate on multimedia art development
 - 📫 How to reach me: send me an email
-- 😄 Pronouns:she/her ...
+- 😄 Pronouns:she/her 
 -->
